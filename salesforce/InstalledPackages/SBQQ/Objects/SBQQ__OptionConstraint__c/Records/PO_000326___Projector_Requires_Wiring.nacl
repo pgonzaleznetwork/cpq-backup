@@ -1,0 +1,14 @@
+salesforce.SBQQ__OptionConstraint__c PO_000326___Projector_Requires_Wiring@buuuss {
+  Name = "Projector Requires Wiring"
+  SBQQ__ConstrainedOption__c = salesforce.SBQQ__ProductOption__c.instance.PO_000326@b
+  SBQQ__Active__c = true
+  SBQQ__CheckPriorPurchases__c = false
+  SBQQ__ConfiguredSKU__c = salesforce.Product2.instance.13__Laptop___LAPTOP13___Hardware@rsuuuuuu
+  SBQQ__ConstrainingOption__c = salesforce.SBQQ__ProductOption__c.instance.PO_000325@b
+  SBQQ__Type__c = "Dependency"
+  _parent = [
+    salesforce.SBQQ__ProductOption__c.instance.PO_000326@b,
+    salesforce.Product2.instance.13__Laptop___LAPTOP13___Hardware@rsuuuuuu,
+    salesforce.SBQQ__ProductOption__c.instance.PO_000325@b,
+  ]
+}

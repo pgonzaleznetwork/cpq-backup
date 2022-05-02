@@ -1,0 +1,14 @@
+salesforce.SBQQ__ProcessInput__c Guided_Selling___CPU_Processor@suuus {
+  Name = "CPU Processor"
+  SBQQ__QuoteProcess__c = salesforce.SBQQ__QuoteProcess__c.instance.Guided_Selling@s
+  SBQQ__Active__c = true
+  SBQQ__ConditionsMet__c = "All"
+  SBQQ__DisplayOrder__c = 10
+  SBQQ__InputField__c = "CPU__c"
+  SBQQ__Label__c = "Which processor are you interested in?"
+  SBQQ__Operator__c = "equals"
+  SBQQ__ProductField__c = "CPU__c"
+  _parent = [
+    salesforce.SBQQ__QuoteProcess__c.instance.Guided_Selling@s,
+  ]
+}

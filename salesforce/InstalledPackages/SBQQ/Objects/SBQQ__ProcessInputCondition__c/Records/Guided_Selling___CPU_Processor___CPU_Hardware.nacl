@@ -1,0 +1,12 @@
+salesforce.SBQQ__ProcessInputCondition__c Guided_Selling___CPU_Processor___CPU_Hardware@suuusuuus {
+  Name = "CPU Hardware"
+  SBQQ__ProcessInput__c = salesforce.SBQQ__ProcessInput__c.instance.Guided_Selling___CPU_Processor@suuus
+  SBQQ__Active__c = true
+  SBQQ__MasterProcessInput__c = salesforce.SBQQ__ProcessInput__c.instance.Guided_Selling___Hardware_Type@suuus
+  SBQQ__Operator__c = "equals"
+  SBQQ__Value__c = "CPU"
+  _parent = [
+    salesforce.SBQQ__ProcessInput__c.instance.Guided_Selling___CPU_Processor@suuus,
+    salesforce.SBQQ__ProcessInput__c.instance.Guided_Selling___Hardware_Type@suuus,
+  ]
+}

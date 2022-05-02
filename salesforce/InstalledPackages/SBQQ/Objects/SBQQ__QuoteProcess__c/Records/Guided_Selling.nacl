@@ -1,0 +1,6 @@
+salesforce.SBQQ__QuoteProcess__c Guided_Selling@s {
+  Name = "Guided Selling"
+  SBQQ__Default__c = false
+  SBQQ__GuidedOnly__c = true
+  SBQQ__ProductAutoSelected__c = false
+}

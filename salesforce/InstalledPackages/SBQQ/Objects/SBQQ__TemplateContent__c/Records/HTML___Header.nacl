@@ -1,0 +1,7 @@
+salesforce.SBQQ__TemplateContent__c HTML___Header {
+  Name = "Header"
+  SBQQ__FontFamily__c = "Courier"
+  SBQQ__RawMarkup__c = "Quote for {!quote.Account_Name__c}"
+  SBQQ__TableStyle__c = "Standard"
+  SBQQ__Type__c = "HTML"
+}

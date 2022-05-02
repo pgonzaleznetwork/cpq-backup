@@ -1,0 +1,23 @@
+salesforce.SBQQ__ProductOption__c PO_000325@b {
+  SBQQ__AppliedImmediately__c = false
+  SBQQ__Bundled__c = true
+  SBQQ__ConfiguredSKU__c = salesforce.Product2.instance.13__Laptop___LAPTOP13___Hardware@rsuuuuuu
+  SBQQ__DiscountedByPackage__c = false
+  SBQQ__Feature__c = salesforce.SBQQ__ProductFeature__c.instance.13__Laptop___LAPTOP13___Hardware___30___Additional@rsuuuuuuuuuuuu
+  SBQQ__MaxQuantity__c = 4
+  SBQQ__Number__c = 60
+  SBQQ__OptionalSKU__c = salesforce.Product2.instance.Wiring_Kit___WIRINGKIT___Hardware@suuuuuu
+  SBQQ__QuantityEditable__c = true
+  SBQQ__Quantity__c = 2
+  SBQQ__QuoteLineVisibility__c = "Always"
+  SBQQ__Required__c = false
+  SBQQ__Selected__c = true
+  SBQQ__System__c = false
+  SBQQ__Type__c = "Related Product"
+  SBQQ__UpliftedByPackage__c = false
+  _parent = [
+    salesforce.Product2.instance.13__Laptop___LAPTOP13___Hardware@rsuuuuuu,
+    salesforce.SBQQ__ProductFeature__c.instance.13__Laptop___LAPTOP13___Hardware___30___Additional@rsuuuuuuuuuuuu,
+    salesforce.Product2.instance.Wiring_Kit___WIRINGKIT___Hardware@suuuuuu,
+  ]
+}

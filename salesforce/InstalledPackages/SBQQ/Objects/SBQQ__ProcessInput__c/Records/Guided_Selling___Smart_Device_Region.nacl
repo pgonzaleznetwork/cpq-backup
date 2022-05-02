@@ -1,0 +1,14 @@
+salesforce.SBQQ__ProcessInput__c Guided_Selling___Smart_Device_Region@suuuss {
+  Name = "Smart Device Region"
+  SBQQ__QuoteProcess__c = salesforce.SBQQ__QuoteProcess__c.instance.Guided_Selling@s
+  SBQQ__Active__c = true
+  SBQQ__ConditionsMet__c = "All"
+  SBQQ__DisplayOrder__c = 15
+  SBQQ__InputField__c = "Region__c"
+  SBQQ__Label__c = "Which region will this product be used at?"
+  SBQQ__Operator__c = "equals"
+  SBQQ__ProductField__c = "Region__c"
+  _parent = [
+    salesforce.SBQQ__QuoteProcess__c.instance.Guided_Selling@s,
+  ]
+}

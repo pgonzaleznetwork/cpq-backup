@@ -1,0 +1,9 @@
+salesforce.SBQQ__ProductFeature__c Bass_Guitar___Miscellaneous___1___Strings@suuuuuuuuu {
+  Name = "Strings"
+  SBQQ__ConfiguredSKU__c = salesforce.Product2.instance.Bass_Guitar___Miscellaneous@suuu
+  SBQQ__MinOptionCount__c = 1
+  SBQQ__Number__c = 1
+  _parent = [
+    salesforce.Product2.instance.Bass_Guitar___Miscellaneous@suuu,
+  ]
+}

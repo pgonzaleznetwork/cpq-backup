@@ -1,0 +1,20 @@
+salesforce.FieldSet SBQQ__QuoteLine__c_Simple_View {
+  fullName = "SBQQ__QuoteLine__c.Simple_View"
+  description = "CPQ custom view"
+  displayedFields = [
+    {
+      field = salesforce.SBQQ__QuoteLine__c.field.SBQQ__ProductName__c
+      isFieldManaged = false
+      isRequired = false
+    },
+    {
+      field = salesforce.SBQQ__QuoteLine__c.field.SBQQ__Description__c
+      isFieldManaged = false
+      isRequired = false
+    },
+  ]
+  label = "Simple View"
+  _parent = [
+    salesforce.SBQQ__QuoteLine__c,
+  ]
+}

@@ -1,0 +1,18 @@
+salesforce.SBQQ__ConfigurationAttribute__c Bass_Guitar___Miscellaneous___Bass_Guitar___Miscellaneous___2___Design___Usable_Capacity__c___Color@suuuuuusuuuuuuuuuuuuuuuuuu {
+  Name = "Color"
+  SBQQ__AppliedImmediately__c = false
+  SBQQ__ApplyToProductOptions__c = false
+  SBQQ__AutoSelect__c = false
+  SBQQ__ColumnOrder__c = "1"
+  SBQQ__DisplayOrder__c = 3
+  SBQQ__Feature__c = salesforce.SBQQ__ProductFeature__c.instance.Bass_Guitar___Miscellaneous___2___Design@suuuuuuuuu
+  SBQQ__Hidden__c = false
+  SBQQ__Position__c = "Top"
+  SBQQ__Product__c = salesforce.Product2.instance.Bass_Guitar___Miscellaneous@suuu
+  SBQQ__Required__c = false
+  SBQQ__TargetField__c = "Usable_Capacity__c"
+  _parent = [
+    salesforce.SBQQ__ProductFeature__c.instance.Bass_Guitar___Miscellaneous___2___Design@suuuuuuuuu,
+    salesforce.Product2.instance.Bass_Guitar___Miscellaneous@suuu,
+  ]
+}

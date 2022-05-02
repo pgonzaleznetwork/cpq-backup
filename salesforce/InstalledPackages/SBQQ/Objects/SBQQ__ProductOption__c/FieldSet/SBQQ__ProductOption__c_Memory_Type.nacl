@@ -1,0 +1,15 @@
+salesforce.FieldSet SBQQ__ProductOption__c_Memory_Type {
+  fullName = "SBQQ__ProductOption__c.Memory_Type"
+  description = "CPQ"
+  displayedFields = [
+    {
+      field = salesforce.SBQQ__ProductOption__c.field.Memory_Connector_Type__c
+      isFieldManaged = false
+      isRequired = false
+    },
+  ]
+  label = "Memory Type"
+  _parent = [
+    salesforce.SBQQ__ProductOption__c,
+  ]
+}

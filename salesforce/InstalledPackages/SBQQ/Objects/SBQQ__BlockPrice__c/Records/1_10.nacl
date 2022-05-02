@@ -1,0 +1,12 @@
+salesforce.SBQQ__BlockPrice__c "1_10@b" {
+  Name = "1-10"
+  SBQQ__LowerBound__c = 1
+  SBQQ__PriceBook2__c = salesforce.Pricebook2.instance.CPQ_2020_Price_Book@s
+  SBQQ__Price__c = 245
+  SBQQ__Product__c = salesforce.Product2.instance.Motion_Sensor___MOTIONSENSOR___Hardware@suuuuuu
+  SBQQ__UpperBound__c = 11
+  _parent = [
+    salesforce.Pricebook2.instance.CPQ_2020_Price_Book@s,
+    salesforce.Product2.instance.Motion_Sensor___MOTIONSENSOR___Hardware@suuuuuu,
+  ]
+}

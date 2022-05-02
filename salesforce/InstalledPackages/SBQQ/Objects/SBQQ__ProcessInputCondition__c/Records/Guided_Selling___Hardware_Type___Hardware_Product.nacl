@@ -1,0 +1,12 @@
+salesforce.SBQQ__ProcessInputCondition__c Guided_Selling___Hardware_Type___Hardware_Product@suuusuuus {
+  Name = "Hardware Product"
+  SBQQ__ProcessInput__c = salesforce.SBQQ__ProcessInput__c.instance.Guided_Selling___Hardware_Type@suuus
+  SBQQ__Active__c = true
+  SBQQ__MasterProcessInput__c = salesforce.SBQQ__ProcessInput__c.instance.Guided_Selling___Product_Family@suuus
+  SBQQ__Operator__c = "equals"
+  SBQQ__Value__c = "Hardware"
+  _parent = [
+    salesforce.SBQQ__ProcessInput__c.instance.Guided_Selling___Hardware_Type@suuus,
+    salesforce.SBQQ__ProcessInput__c.instance.Guided_Selling___Product_Family@suuus,
+  ]
+}

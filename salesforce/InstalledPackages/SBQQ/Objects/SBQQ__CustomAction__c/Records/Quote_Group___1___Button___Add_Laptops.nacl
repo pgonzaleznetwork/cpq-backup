@@ -1,0 +1,17 @@
+salesforce.SBQQ__CustomAction__c Quote_Group___1___Button___Add_Laptops@duuuuuuuuus {
+  Name = "Add Laptops"
+  SBQQ__Action__c = "Add Products"
+  SBQQ__Active__c = true
+  SBQQ__BrandButton__c = true
+  SBQQ__Class__c = "addProductsBtn"
+  SBQQ__ConditionsMet__c = "All"
+  SBQQ__Default__c = false
+  SBQQ__DisplayOrder__c = 1
+  SBQQ__EventHandlerName__c = "onAddProducts"
+  SBQQ__IconClass__c = "sf-icon-attach"
+  SBQQ__Icon__c = "attach"
+  SBQQ__Label__c = "Add Laptops"
+  SBQQ__Location__c = "Quote/Group"
+  SBQQ__Page__c = "Quote Line Editor"
+  SBQQ__Type__c = "Button"
+}

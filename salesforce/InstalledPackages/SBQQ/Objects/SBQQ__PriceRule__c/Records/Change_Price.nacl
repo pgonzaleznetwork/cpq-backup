@@ -1,0 +1,7 @@
+salesforce.SBQQ__PriceRule__c Change_Price@s {
+  Name = "Change Price"
+  SBQQ__Active__c = false
+  SBQQ__ConditionsMet__c = "All"
+  SBQQ__EvaluationEvent__c = "On Calculate"
+  SBQQ__TargetObject__c = "Calculator"
+}

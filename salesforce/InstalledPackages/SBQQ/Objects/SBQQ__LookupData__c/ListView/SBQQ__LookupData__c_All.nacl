@@ -1,0 +1,8 @@
+salesforce.ListView SBQQ__LookupData__c_All {
+  fullName = "SBQQ__LookupData__c.All"
+  filterScope = "Everything"
+  label = "All"
+  _parent = [
+    salesforce.SBQQ__LookupData__c,
+  ]
+}

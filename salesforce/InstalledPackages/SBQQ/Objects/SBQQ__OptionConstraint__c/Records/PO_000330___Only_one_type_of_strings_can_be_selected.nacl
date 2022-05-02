@@ -1,0 +1,14 @@
+salesforce.SBQQ__OptionConstraint__c PO_000330___Only_one_type_of_strings_can_be_selected@buuusssssss {
+  Name = "Only one type of strings can be selected"
+  SBQQ__ConstrainedOption__c = salesforce.SBQQ__ProductOption__c.instance.PO_000330@b
+  SBQQ__Active__c = true
+  SBQQ__CheckPriorPurchases__c = false
+  SBQQ__ConfiguredSKU__c = salesforce.Product2.instance.Bass_Guitar___Miscellaneous@suuu
+  SBQQ__ConstrainingOption__c = salesforce.SBQQ__ProductOption__c.instance.PO_000331@b
+  SBQQ__Type__c = "Exclusion"
+  _parent = [
+    salesforce.SBQQ__ProductOption__c.instance.PO_000330@b,
+    salesforce.Product2.instance.Bass_Guitar___Miscellaneous@suuu,
+    salesforce.SBQQ__ProductOption__c.instance.PO_000331@b,
+  ]
+}

@@ -1,0 +1,14 @@
+salesforce.SBQQ__SearchFilter__c Only_Laptops@s {
+  Name = "Only Laptops"
+  SBQQ__Action__c = salesforce.SBQQ__CustomAction__c.instance.Quote_Group___1___Button___Add_Laptops@duuuuuuuuus
+  SBQQ__DisplayOrder__c = 1
+  SBQQ__FilterValue__c = "laptop"
+  SBQQ__Hidden__c = false
+  SBQQ__Operator__c = "contains"
+  SBQQ__TargetField__c = "Name"
+  SBQQ__TargetObject__c = "Product"
+  Show_on_layout__c = true
+  _parent = [
+    salesforce.SBQQ__CustomAction__c.instance.Quote_Group___1___Button___Add_Laptops@duuuuuuuuus,
+  ]
+}

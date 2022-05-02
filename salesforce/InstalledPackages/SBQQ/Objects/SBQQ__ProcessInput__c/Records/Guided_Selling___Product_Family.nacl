@@ -1,0 +1,14 @@
+salesforce.SBQQ__ProcessInput__c Guided_Selling___Product_Family@suuus {
+  Name = "Product Family"
+  SBQQ__QuoteProcess__c = salesforce.SBQQ__QuoteProcess__c.instance.Guided_Selling@s
+  SBQQ__Active__c = true
+  SBQQ__ConditionsMet__c = "All"
+  SBQQ__DisplayOrder__c = 1
+  SBQQ__InputField__c = "Product_Family__c"
+  SBQQ__Label__c = "What type of product are you looking for?"
+  SBQQ__Operator__c = "equals"
+  SBQQ__ProductField__c = "Product Family"
+  _parent = [
+    salesforce.SBQQ__QuoteProcess__c.instance.Guided_Selling@s,
+  ]
+}

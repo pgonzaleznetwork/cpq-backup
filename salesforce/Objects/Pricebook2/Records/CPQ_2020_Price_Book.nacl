@@ -1,0 +1,4 @@
+salesforce.Pricebook2 CPQ_2020_Price_Book@s {
+  Name = "CPQ 2020 Price Book"
+  IsActive = true
+}
