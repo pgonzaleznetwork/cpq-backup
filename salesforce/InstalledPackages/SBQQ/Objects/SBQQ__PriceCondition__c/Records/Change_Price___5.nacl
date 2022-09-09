@@ -5,7 +5,7 @@ salesforce.SBQQ__PriceCondition__c Change_Price___5@suuu {
   SBQQ__Object__c = "Quote"
   SBQQ__Operator__c = "equals"
   SBQQ__TestedFormula__c = "SBQQ__Opportunity2__r.Type"
-  SBQQ__Value__c = "New Customer"
+  SBQQ__Value__c = "New Business"
   _parent = [
     salesforce.SBQQ__PriceRule__c.instance.Change_Price@s,
   ]
